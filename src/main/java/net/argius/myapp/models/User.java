@@ -11,6 +11,7 @@ public final class User {
     }
 
     public void setId(long id) {
+
         this.id = id;
     }
 
